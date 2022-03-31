@@ -1,5 +1,7 @@
 So, what would you like to have a career on, Data Science 🔬 or Data Engineering ⚙️ ?
+
 me: 👀 Yes!
+
 How long are you planning to study ?
 me: 👀 Yes!
 
