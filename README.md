@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Nirmal Tom
-- 👀 I’m interested Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on OpenSource Projects
-- 📫 How to reach me - https://nirmalytics.github.io/
+So, what would you like to have a career on, Data Science 🔬 or Data Engineering ⚙️ ?
+me: 👀 Yes!
+How long are you planning to study ?
+me: 👀 Yes!
+
+- 📫 How to reach me -https://twitter.com/Nirmalytics
 
 <!---
 Nirmalytics/Nirmalytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
