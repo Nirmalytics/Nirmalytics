@@ -3,7 +3,6 @@
 </h3>
 
 - 🌱 I’m currently learning **Google Cloud Platform**
-- 📫 To reach me : **https://nirmalytics.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
