@@ -2,8 +2,6 @@
 <h3 align="center">A diligent Digital Marketing Analyst with a background in Electronics and communication (B.Tech Engineering) and Data Science (Program Partner by KPMG in India & Analytics Vidhya), seeking suitable opportunities to leverage my analytical skills and deepen my knowledge in the field of Data Science, Data Engineering and Data Storytelling.
 </h3>
 
-- 🌱 I’m currently learning **Google Cloud Platform**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nirmalytics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirmalytics" height="30" width="40" /></a>
