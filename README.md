@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nirmal Tom</h1>
-<h3 align="center">A diligent Digital Marketing Analyst with a background in Electronics and communication (B.Tech Engineering) and Data Science (Program Partner by KPMG in India & Analytics Vidhya), seeking suitable opportunities to leverage my analytical skills and deepen my knowledge in the field of Data Science, Data Engineering and Data Storytelling.
+<h3 align="center">A Digital Marketing Analyst with a background in Electronics and communication (B.Tech Engineering) and Data Science (Program Partner by KPMG in India & Analytics Vidhya), seeking suitable opportunities to leverage my analytical skills and deepen my knowledge in the field of Data Science, Data Engineering and Data Storytelling.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
