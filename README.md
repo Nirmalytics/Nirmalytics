@@ -3,7 +3,7 @@
 </h3>
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Oracle Dev Gym profile: shorturl.at/knxZ9</h3>
+<h3 align="left">Oracle Dev Gym profile: www.shorturl.at/knxZ9</h3>
 
 <p align="left">
 <a href="https://twitter.com/nirmalytics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirmalytics" height="30" width="40" /></a>
